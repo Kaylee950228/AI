@@ -1,0 +1,8 @@
+start;(1,0,0,mazda,stig,all-terrain,50,100%,);(n.a.)
+0;(1,0,0,mazda,stig,mud,50,100%,);(A4:mud)
+1;(1,0,0,toyota,stig,mud,50,100%,);(A2:toyota)
+2;(3,0,0,toyota,stig,mud,50,100%,);(A1)
+3;(6,0,0,toyota,stig,mud,50,100%,);(A1)
+4;(7,0,0,toyota,stig,mud,50,100%,);(A1)
+5;(10,0,0,toyota,stig,mud,50,100%,);(A1)
+Goal reached, you bloody ripper!
